@@ -1,0 +1,42 @@
+.price{
+  color: #49a6e9;
+}
+.image{
+  padding:7%;
+  box-shadow:  2px 2px 7px lightgray;
+  
+  width: auto;
+  height: auto;
+}
+.photos{
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px 7px lightgray;
+  
+}
+.underline{
+  width: 10rem;
+  height: 0.30rem;
+  border-bottom:dashed;
+  color:  #c59d5f ;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name{
+  padding: 10px;
+  color: #102a42;
+  letter-spacing: 0.05cm;
+  font-size: medium;
+}
+.price{
+  padding: 10px;
+  font-size:medium;
+}
+.backgrounds{
+  background-color: #e6f4ff;
+  overflow: hidden;
+
+}
+.texts{
+  padding-top:7%;
+}

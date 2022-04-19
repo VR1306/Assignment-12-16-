@@ -1,0 +1,61 @@
+.text{
+    letter-spacing: 0.05cm;
+    padding-top: 4%;
+    color: #102a42;
+}
+.underline{
+    width: 8rem;
+    height: 0.20rem;
+    border-bottom:solid;
+    color:  #49a6e9;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alignment{
+  
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #49a6e9;
+    border-radius:100%;
+    width:max-content;
+    padding: 1%;
+}
+.texts{
+    letter-spacing:0.1cm;
+    font-size: x-large;
+    font-weight: 500;
+    color: #000102;
+    text-shadow: #102a42 1px 1px 1px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text1{
+    font-size: x-large;
+    color: #49a6e9;
+    letter-spacing:0.1cm;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text2{
+   color: #8f8d8d;
+ 
+   font-size: large;
+   margin-left: auto;
+   margin-right: auto;
+   font-weight:400;
+}
+.backgroundss{
+    background-color: #dee9f1;
+}
+.card{
+    margin: auto;
+
+    padding-bottom:10%;
+}
+.back{
+    background-color: #49a6e9;
+    border-radius: 90%;
+    color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    padding:1%
+}
